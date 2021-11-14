@@ -1,0 +1,1 @@
+This program will make a list of all the primes from 1 - the number you put in. To make the list type generate() with the number you want it to go up to eg generate(100) and this will out put 2, 3, 5, 7, 11, 13, 17, 19, 23, 299, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97.
